@@ -238,5 +238,3 @@ class LDDMM2D(object):
         """
         return detPhi1.min() < 0
 
-
-
